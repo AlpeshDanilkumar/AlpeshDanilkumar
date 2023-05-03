@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Azure Cloud**
 
-- 🌱 I’m currently learning **Cloud technology and DevOps**
+- 🌱 I’m currently learning **all about cloud tech and DevOps. It's pretty cool stuff!**
 
 - 💬 Ask me about **DevOps**
 
