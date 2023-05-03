@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alpesh</h1>
 <h3 align="center">A Junior DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **Azure Cloud**
+- 🔭 I’m currently working on **Azure Cloud.**
 
 - 🌱 I’m currently learning **all about cloud tech and DevOps. It's pretty cool stuff!**
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **DevOps.**
 
 - 📫 How to reach me **adanilkumar@outlook.com**
 
