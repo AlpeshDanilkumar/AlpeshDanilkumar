@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alpesh</h1>
 
 - 🌱 I’m currently learning **all about cloud tech and DevOps. It's pretty cool stuff!**
-
-- 💬 Ask me about **DevOps.**
-
 - 📫 How to reach me **adanilkumar@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
